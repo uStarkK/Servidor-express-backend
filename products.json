@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Guantes",
+    "price": 25,
+    "thumbnail": "url.com/url",
+    "id": 1
+  },
+  {
+    "name": "Camiseta",
+    "price": 30,
+    "thumbnail": "url.com/url",
+    "id": 2
+  },
+  {
+    "name": "Fideos",
+    "price": 20,
+    "thumbnail": "url.com/url",
+    "id": 3
+  },
+  {
+    "name": "Medias",
+    "price": 10,
+    "thumbnail": "url.com/url",
+    "id": 4
+  }
+]
